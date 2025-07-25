@@ -1,0 +1,56 @@
+{
+  "国内资讯": [
+    {"name": "机器之心", "url": "https://www.jiqizhixin.com/rss"},
+    {"name": "量子位", "url": "https://www.qbitai.com/feed"},
+    {"name": "AI科技评论", "url": "https://www.leiphone.com/category/ai/rss"},
+    {"name": "新智元", "url": "https://www.aixinzhijie.com/rss"},
+    {"name": "智东西", "url": "https://www.zhidx.com/feed"},
+    {"name": "36氪-人工智能", "url": "https://36kr.com/information/ai/feed"},
+    {"name": "虎嗅网-AI", "url": "https://www.huxiu.com/channel/148.rss"},
+    {"name": "爱范儿-人工智能", "url": "https://www.ifanr.com/feed"},
+    {"name": "中国人工智能学会", "url": "http://www.caai.cn/RSS.aspx?ChannelID=2"},
+    {"name": "AI前线", "url": "https://www.infoq.cn/feed/ai"},
+    {"name": "智源社区", "url": "https://hub.baai.ac.cn/rss"}
+  ],
+  "学术研究": [
+    {"name": "PaperWeekly", "url": "https://www.paperweekly.site/feed"},
+    {"name": "深度学习自然语言处理", "url": "https://www.datalearner.com/rss"},
+    {"name": "arXiv:cs.AI", "url": "http://export.arxiv.org/rss/cs.AI"},
+    {"name": "arXiv:cs.LG", "url": "http://export.arxiv.org/rss/cs.LG"},
+    {"name": "Papers With Code", "url": "https://paperswithcode.com/rss"},
+    {"name": "Nature Machine Intelligence", "url": "https://www.nature.com/ng/journal/vaop/ncurrent/rss.xml"},
+    {"name": "Journal of Artificial Intelligence Research", "url": "https://www.jair.org/atom.xml"}
+  ],
+  "海外与企业博客": [
+    {"name": "MIT Tech Review - AI", "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed/"},
+    {"name": "Stanford HAI", "url": "https://hai.stanford.edu/rss.xml"},
+    {"name": "DeepMind Blog", "url": "https://deepmind.com/blog/feed/basic/"},
+    {"name": "Google AI Blog", "url": "https://blog.research.google/rss/"},
+    {"name": "OpenAI Blog", "url": "https://openai.com/blog/rss/"},
+    {"name": "Meta AI Blog", "url": "https://ai.meta.com/blog/feed/"},
+    {"name": "Microsoft Research AI", "url": "https://www.microsoft.com/en-us/research/category/microsoft-research-ai/feed/"},
+    {"name": "PyTorch Blog", "url": "https://pytorch.org/feed.xml"},
+    {"name": "TensorFlow Blog", "url": "https://blog.tensorflow.org/feeds/posts/default"},
+    {"name": "Hugging Face Blog", "url": "https://huggingface.co/blog/feed.xml"},
+    {"name": "The Batch (DeepLearning.AI)", "url": "https://read.deeplearning.ai/rss"}
+  ],
+  "行业观察与播客": [
+    {"name": "老石谈芯", "url": "https://laoshi-tanxin.blog/atom.xml"},
+    {"name": "Hacker News (AI)", "url": "https://hnrss.org/newest?q=AI"},
+    {"name": "Reddit r/MachineLearning", "url": "https://www.reddit.com/r/MachineLearning/.rss"},
+    {"name": "Towards Data Science (AI)", "url": "https://towardsdatascience.com/feed/tagged/artificial-intelligence"},
+    {"name": "KDnuggets (AI)", "url": "https://www.kdnuggets.com/feed"},
+    {"name": "Analytics Vidhya (AI)", "url": "https://www.analyticsvidhya.com/blog/feed/"},
+    {"name": "Import AI", "url": "https://jack-clark.net/feed"},
+    {"name": "AI Index Report", "url": "https://aiindex.stanford.edu/feed/"},
+    {"name": "Partnership on AI", "url": "https://www.partnershiponai.org/feed/"},
+    {"name": "AI Now Institute", "url": "https://ainowinstitute.org/feed"},
+    {"name": "Future of Life Institute", "url": "https://futureoflife.org/feed/"},
+    {"name": "OECD AI Policy Observatory", "url": "https://oecd.ai/en/feed"},
+    {"name": "AI Weekly", "url": "https://aiweekly.co/rss"},
+    {"name": "Last Week in AI", "url": "https://lastweekin.ai/rss"},
+    {"name": "Two Minute Papers", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCezIgC97PvUuR4_gbFUs5g"},
+    {"name": "Lex Fridman Podcast", "url": "https://lexfridman.com/category/podcast/feed/"},
+    {"name": "TWIML AI Podcast", "url": "https://twimlai.com/feed/podcast/"}
+  ]
+} 
