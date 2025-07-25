@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI每日热点简报</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto; padding: 20px; background-color: #f9f9f9; }
+        h1 { text-align: center; color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 10px; }
+        .digest-list { list-style: none; padding: 0; }
+        .digest-item { background-color: #fff; border: 1px solid #ddd; border-radius: 5px; margin-bottom: 15px; padding: 15px 20px; transition: box-shadow 0.3s ease; }
+        .digest-item:hover { box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
+        .digest-item a { text-decoration: none; color: #3498db; font-size: 1.2em; font-weight: 500; }
+        .digest-item a:hover { text-decoration: underline; }
+        .hot-topics { margin-top: 10px; }
+        .topic-badge { display: inline-block; background-color: #eaf4ff; color: #3498db; padding: 3px 8px; border-radius: 12px; font-size: 0.8em; margin-right: 5px; }
+    </style>
+</head>
+<body>
+    <h1>AI每日热点简报</h1>
+    <ul class="digest-list">
+        {% for digest in digests %}
+        <li class="digest-item">
+            <a href="{{ url_for('view_digest', filename=digest.filename) }}">{{ digest.date }}</a>
+            <div class="hot-topics">
+                <strong>热点话题:</strong>
+                {% for topic in digest.hot_topics %}
+                <span class="topic-badge">{{ topic }}</span>
+                {% endfor %}
+            </div>
+        </li>
+        {% else %}
+        <li>没有找到任何简报。请先运行 `python scripts/processor.py` 生成简报。</li>
+        {% endfor %}
+    </ul>
+</body>
+</html> 

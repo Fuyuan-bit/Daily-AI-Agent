@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>【每日AI热点】{{ digest.date }}</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto; padding: 20px; background-color: #f9f9f9; }
+        .container { background-color: #fff; padding: 20px 40px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
+        .back-link { display: block; margin-bottom: 20px; color: #3498db; text-decoration: none; }
+        .back-link:hover { text-decoration: underline; }
+
+        /* Digest Content Styles */
+        .digest-content h3 { font-size: 1.8em; text-align: center; margin-bottom: 25px; color: #2c3e50; border-bottom: 2px solid #eee; padding-bottom: 15px; }
+        .digest-content h4 { font-size: 1.3em; color: #34495e; margin-top: 30px; border-bottom: 1px solid #e0e0e0; padding-bottom: 8px;}
+        .digest-content p { margin-bottom: 15px; }
+        .digest-content a { color: #3498db; }
+        .digest-content ul { list-style-type: none; padding-left: 0; }
+        .digest-content li { margin-bottom: 20px; }
+
+        /* Trend commentary */
+        .digest-content h3:last-of-type {
+            font-size: 1.5em;
+            margin-top: 40px;
+            text-align: left;
+            border-bottom-style: dashed;
+        }
+
+        /* Raw Article List Styles */
+        h2 { color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 10px; margin-top: 40px; }
+        .topic-header { font-size: 1.4em; color: #2980b9; margin-top: 30px; margin-bottom: 15px; border-left: 4px solid #3498db; padding-left: 10px; }
+        .article { border-left: 3px solid #bdc3c7; padding-left: 15px; margin-bottom: 20px; }
+        .article h4 { font-size: 1.2em; color: #34495e; margin-bottom: 5px;}
+        .article p { margin-left: 10px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="{{ url_for('index') }}" class="back-link">&larr; 返回列表</a>
+        
+        <div class="digest-content">
+            {{ digest.digest_html | safe }}
+        </div>
+
+        <hr>
+
+        <h2>原始新闻列表</h2>
+        <div class="raw-list">
+            {% for topic, articles in digest.articles_by_topic.items() %}
+                {% if articles %}
+                    <h3 class="topic-header">{{ topic }}</h3>
+                    {% for article in articles %}
+                    <div class="article">
+                        <h4>{{ loop.index }}. {{ article.title }}</h4>
+                        <p>
+                            <strong>来源:</strong> {{ article.source }}<br>
+                            <strong>摘要:</strong> {{ article.summary }}<br>
+                            <strong>链接:</strong> <a href="{{ article.link }}" target="_blank">{{ article.link }}</a><br>
+                            <strong>时间:</strong> {{ article.published[:10] }}
+                        </p>
+                    </div>
+                    {% endfor %}
+                {% endif %}
+            {% endfor %}
+        </div>
+        
+        <hr>
+        <p style="text-align:center; color: #7f8c8d;"><i>本简报由每日AI热点Agent自动生成</i></p>
+    </div>
+</body>
+</html> 
