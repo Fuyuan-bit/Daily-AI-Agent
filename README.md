@@ -17,7 +17,7 @@
 
 <div align="center">
   <img src="./assets/figure1.png" width="600"/>
-  <h3 align="center">Ancient_Books - 古籍解读大模型</h3>
+  <h3 align="center">预览</h3>
 </div>
 
 ## 项目结构
