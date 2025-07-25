@@ -1,0 +1,114 @@
+{
+  "date": "20250725",
+  "hot_topics": [
+    "Agent"
+  ],
+  "digest": "### AI科技热点简报（2025年7月25日）  \n\n#### 1. **996工作制席卷硅谷！招聘启事惊现“加班警告”**  \n硅谷科技公司被曝强制推行996工作制，以高薪和股权为诱饵，引发劳工权益争议。  \n[原文链接](https://www.infoq.cn/article/RRIaEEdOsDPr4XKlevmX)  \n\n#### 2. **金山办公AI产品总监分享多Agent驱动的内容创作新范式**  \n徐奕成将探讨多Agent协同如何重构内容生产流程，提升效率与创意。  \n[原文链接](https://www.infoq.cn/article/iKOyqptwt1vOPv9h4UEM)  \n\n#### 3. **AI重构UGC游戏创作链：玩法、内容与商业价值新范式**  \nAICon深圳聚焦AI如何通过生成式技术革新游戏开发与用户生成内容（UGC）。  \n[原文链接](https://www.infoq.cn/article/UPhzggkmQgv5hbPoq8Wb)  \n\n#### 4. **状态空间模型在低功耗边缘计算中实现AI**  \n轻量化AI模型为边缘设备提供高效能解决方案，推动物联网与实时分析发展。  \n[原文链接](https://www.infoq.cn/article/yaaUGlucEbuL7xmBLREy)  \n\n#### 5. **文件被Gemini当场“格式化”，网友控诉主流AI工具删库风险**  \n用户报告Gemini、Claude等AI助手存在误删文件问题，数据安全引担忧。  \n[原文链接](https://www.infoq.cn/article/j0pUYVuDQ03ZwhTsu8et)  \n\n#### 6. **隐语技术生态大会：数据流通全栈技术新进展**  \n蚂蚁集团隐语项目展示隐私计算技术在数据合规流通中的突破。  \n[原文链接](https://www.infoq.cn/article/8uwLBmD29UHUJdjUUWMe)  \n\n#### 7. **Spring AI 1.0发布：简化AI系统集成**  \n新框架为Java开发者提供标准化接口，快速接入大模型能力。  \n[原文链接](https://www.infoq.cn/article/jwD25k9V1WXUttqPa7tS)  \n\n#### 其他热点：  \n- **.NET 10预览版6发布**（[链接](https://www.infoq.cn/article/aLWSz02gP5KgFycqD8d7)）  \n- **Azure Event Hubs地理复制功能正式可用**（[链接](https://www.infoq.cn/article/uPPt2xFdppmHuhchqfRU)）  \n- **特朗普AI政策主张“先松绑后监管”**（[链接](https://thealgorithmdaily.com/trump-ai-deregulate-first/)）  \n\n---  \n**趋势点评**：  \nAgent技术成为焦点，多Agent协同框架（如金山办公案例）正重塑内容创作与工作流；边缘AI与轻量化模型持续落地，而数据安全与AI伦理问题（如删库风险）亟待解决。未来半年，Agent的自主决策能力与行业适配性将是关键突破方向。",
+  "articles": [
+    {
+      "title": "996工作制席卷硅谷！招聘启事惊现“加班警告”：接受就是年薪翻倍+股权暴增，不接受就滚蛋",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/RRIaEEdOsDPr4XKlevmX?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>",
+      "link": "https://www.infoq.cn/article/RRIaEEdOsDPr4XKlevmX?utm_source=rss&utm_medium=article",
+      "source": "AI前线",
+      "published": "2025-07-25T18:00:00"
+    },
+    {
+      "title": "三年之约，相聚北京！邀您见证迈向“数据流通全栈技术生态”的全新隐语",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/8uwLBmD29UHUJdjUUWMe?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>",
+      "link": "https://www.infoq.cn/article/8uwLBmD29UHUJdjUUWMe?utm_source=rss&utm_medium=article",
+      "source": "AI前线",
+      "published": "2025-07-25T17:33:50"
+    },
+    {
+      "title": ".NET 10预览版6引入了Blazor增强、内存优化和SDK改进",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/aLWSz02gP5KgFycqD8d7?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>",
+      "link": "https://www.infoq.cn/article/aLWSz02gP5KgFycqD8d7?utm_source=rss&utm_medium=article",
+      "source": "AI前线",
+      "published": "2025-07-25T15:00:00"
+    },
+    {
+      "title": "金山办公 AI 产品总监徐奕成确认出席 AICon 深圳，分享协同智能，多 Agent 驱动的内容创作新范式",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/iKOyqptwt1vOPv9h4UEM?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>",
+      "link": "https://www.infoq.cn/article/iKOyqptwt1vOPv9h4UEM?utm_source=rss&utm_medium=article",
+      "source": "AI前线",
+      "published": "2025-07-25T14:42:02"
+    },
+    {
+      "title": "状态空间模型可以在低功耗边缘计算中实现AI",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/yaaUGlucEbuL7xmBLREy?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>",
+      "link": "https://www.infoq.cn/article/yaaUGlucEbuL7xmBLREy?utm_source=rss&utm_medium=article",
+      "source": "AI前线",
+      "published": "2025-07-25T14:00:00"
+    },
+    {
+      "title": "Azure Event Hubs地理复制功能达到正式可用状态",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/uPPt2xFdppmHuhchqfRU?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>",
+      "link": "https://www.infoq.cn/article/uPPt2xFdppmHuhchqfRU?utm_source=rss&utm_medium=article",
+      "source": "AI前线",
+      "published": "2025-07-25T12:00:00"
+    },
+    {
+      "title": "文件被 Gemini 当场“格式化”，全没了！网友控诉：Claude、Copilot 也爱删库，一个都跑不了",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/j0pUYVuDQ03ZwhTsu8et?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>",
+      "link": "https://www.infoq.cn/article/j0pUYVuDQ03ZwhTsu8et?utm_source=rss&utm_medium=article",
+      "source": "AI前线",
+      "published": "2025-07-25T12:00:00"
+    },
+    {
+      "title": "AI 重构 UGC 游戏创作链：玩法、内容与商业价值新范式｜AICon深圳",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/UPhzggkmQgv5hbPoq8Wb?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>",
+      "link": "https://www.infoq.cn/article/UPhzggkmQgv5hbPoq8Wb?utm_source=rss&utm_medium=article",
+      "source": "AI前线",
+      "published": "2025-07-25T11:21:18"
+    },
+    {
+      "title": "Trump's AI Playbook: Deregulate Now, Worry Later",
+      "summary": "<p>Article URL: <a href=\"https://thealgorithmdaily.com/trump-ai-deregulate-first/\">https://thealgorithmdaily.com/trump-ai-deregulate-first/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=44681824\">https://news.ycombinator.com/item?id=44681824</a></p>\n<p>Points: 1</p>\n<p># Com...",
+      "link": "https://thealgorithmdaily.com/trump-ai-deregulate-first/",
+      "source": "Hacker News (AI)",
+      "published": "2025-07-25T11:03:34"
+    },
+    {
+      "title": "大型商业银行研发工程智能化探索",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/hGsuX55aqkHiiOzNTJPp?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>",
+      "link": "https://www.infoq.cn/article/hGsuX55aqkHiiOzNTJPp?utm_source=rss&utm_medium=article",
+      "source": "AI前线",
+      "published": "2025-07-25T10:55:05"
+    },
+    {
+      "title": "AI Slop Might Cure Our Internet Addiction",
+      "summary": "<p>Article URL: <a href=\"https://www.theatlantic.com/technology/archive/2025/07/ai-slop-internet-addiction/683619/\">https://www.theatlantic.com/technology/archive/2025/07/ai-slop-internet-addiction/683619/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=44681770\">https://news....",
+      "link": "https://www.theatlantic.com/technology/archive/2025/07/ai-slop-internet-addiction/683619/",
+      "source": "Hacker News (AI)",
+      "published": "2025-07-25T10:52:00"
+    },
+    {
+      "title": "Spring AI 1.0提供简单的AI系统和服务",
+      "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/jwD25k9V1WXUttqPa7tS?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>",
+      "link": "https://www.infoq.cn/article/jwD25k9V1WXUttqPa7tS?utm_source=rss&utm_medium=article",
+      "source": "AI前线",
+      "published": "2025-07-25T10:41:32"
+    },
+    {
+      "title": "Who’s Adam？最逆天的NeurIPS评审出炉了",
+      "summary": "",
+      "link": "https://www.jiqizhixin.com/articles/2025-07-25-12",
+      "source": "机器之心",
+      "published": "2025-07-25T10:40:30"
+    },
+    {
+      "title": "13.98 万元起的海狮 06，有望接过比亚迪宋 PLUS 的销量重担",
+      "summary": "最显年轻的一辆比亚迪。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p><p>\n<a href=\"https://www.ifanr.com\">爱范儿</a> |\n<a href=\"https://www.ifanr.com/1631924\">原文链接</a> ·\n<a href=\"https://www.ifanr.com/1631924#comments\">查看评论</a> ·\n<a href=\"https://weibo.com/ifanr\">新浪微博</a>\n</p>\n\n<br />\n<div style=\"text-align:...",
+      "link": "https://www.ifanr.com/1631924?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿-人工智能",
+      "published": "2025-07-25T10:38:15"
+    },
+    {
+      "title": "Show HN: demo.dwani.ai – Document Analytics for Indian Languages",
+      "summary": "<p>Try dwani at <a href=\"https://demo.dwani.ai\" rel=\"nofollow\">https://demo.dwani.ai</a><p>dwani.ai is a Document Analytics Platform<p>- Designed for Indian + European languages.\n- It can be self-hosted and provides multimodal inference, supporting\n  - text\n  - images\n  - documents\n  - speech</p>\n<h...",
+      "link": "https://news.ycombinator.com/item?id=44681686",
+      "source": "Hacker News (AI)",
+      "published": "2025-07-25T10:38:10"
+    }
+  ]
+}

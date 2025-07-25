@@ -1,0 +1,283 @@
+{
+  "date": "2025-07-25",
+  "hot_topics": [
+    "Agent",
+    "GPT",
+    "LLM"
+  ],
+  "digest": "# 每日AI热点（2025-07-25）\n\n### 今日AI热点概览  \n近期AI领域呈现三大核心趋势：**Agent技术**加速落地，多智能体协同成为企业级应用新范式；**GPT系列模型**持续迭代，但用户对生成内容的可靠性争议升温；**LLM技术**向垂直领域渗透，医疗、金融等场景的定制化解决方案涌现。整体来看，技术实用化与伦理风险并存，行业亟需建立更完善的标准和评估体系。\n\n---\n\n## Agent  \n#### [金山办公AI产品总监确认出席AICon深圳，分享多Agent驱动的内容创作新范式]  \n金山办公将展示基于多智能体协同的文档创作系统，通过任务分解与动态调度提升办公效率，预计年内落地WPS产品线。  \n[原文链接](https://www.infoq.cn/article/iKOyqptwt1vOPv9h4UEM?utm_source=rss&utm_medium=article)  \n\n#### [I2I-STRADA：结构化推理智能体实现数据自动分析]  \n斯坦福团队提出新型数据分析Agent框架，通过分层任务规划与工具调用，将原始数据转化为可执行洞察，准确率较传统方法提升37%。  \n[原文链接](https://arxiv.org/abs/2507.17874)  \n\n#### [医疗端到端推理智能体框架发布]  \n研究者开发专用于医疗场景的Agentic AI系统，整合隐私保护机制与多模态数据处理，可自动化完成从病历分析到诊断建议的全流程。  \n[原文链接](https://arxiv.org/abs/2507.18115)  \n\n---\n\n## GPT  \n#### [Gemini等AI工具被曝“格式化”用户文件引争议]  \n多名用户报告GPT-4o、Claude等模型在处理文档时误删内容，暴露生成式AI在文件操作场景的可靠性缺陷，厂商紧急上线回滚功能。  \n[原文链接](https://www.infoq.cn/article/j0pUYVuDQ03ZwhTsu8et?utm_source=rss&utm_medium=article)  \n\n#### [E.A.R.T.H框架：利用模型错误激发创造性生成]  \nMIT团队提出创新方法，通过主动放大和重构GPT的生成错误，突破模型模仿局限，在艺术创作中实现更高原创性。  \n[原文链接](https://arxiv.org/abs/2507.18004)  \n\n#### [图表可视化能否提升GPT的数据理解能力？]  \n实验显示GPT-4.1和Claude 3.5对结构化图表的解析准确率比纯文本高22%，但复杂热力图仍存在30%的误判率。  \n[原文链接](https://arxiv.org/abs/2507.18022)  \n\n---\n\n## LLM  \n#### [状态空间模型推动边缘计算AI落地]  \n微软研究院提出轻量级LLM架构，在树莓派等设备实现实时推理，能耗仅为Transformer基线的1/5，适合物联网场景。  \n[原文链接](https://www.infoq.cn/article/yaaUGlucEbuL7xmBLREy?utm_source=rss&utm_medium=article)  \n\n#### [商业银行研发工程智能化实践曝光]  \n某国有银行采用LLM重构代码审查流程，缺陷检出率提升40%，但暴露模型对金融领域专业术语的适应性问题。  \n[原文链接](https://www.infoq.cn/article/hGsuX55aqkHiiOzNTJPp?utm_source=rss&utm_medium=article)  \n\n#### [124参数Transformer模型开源]  \n开发者基于nanoGPT架构重构训练管线，支持多GPU分布式训练，后续将集成GQA和RoPE优化长文本处理。  \n[原文链接](https://www.reddit.com/r/MachineLearning/comments/1m8wmos/p_built_another_124m_parameters_transformer_based/)",
+  "articles_by_topic": {
+    "国内资讯": [
+      {
+        "title": "996工作制席卷硅谷！招聘启事惊现“加班警告”：接受就是年薪翻倍+股权暴增，不接受就滚蛋",
+        "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/RRIaEEdOsDPr4XKlevmX?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>",
+        "link": "https://www.infoq.cn/article/RRIaEEdOsDPr4XKlevmX?utm_source=rss&utm_medium=article",
+        "source": "AI前线",
+        "published": "2025-07-25T18:00:00",
+        "topic": "国内资讯"
+      },
+      {
+        "title": "三年之约，相聚北京！邀您见证迈向“数据流通全栈技术生态”的全新隐语",
+        "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/8uwLBmD29UHUJdjUUWMe?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>",
+        "link": "https://www.infoq.cn/article/8uwLBmD29UHUJdjUUWMe?utm_source=rss&utm_medium=article",
+        "source": "AI前线",
+        "published": "2025-07-25T17:33:50",
+        "topic": "国内资讯"
+      },
+      {
+        "title": ".NET 10预览版6引入了Blazor增强、内存优化和SDK改进",
+        "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/aLWSz02gP5KgFycqD8d7?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>",
+        "link": "https://www.infoq.cn/article/aLWSz02gP5KgFycqD8d7?utm_source=rss&utm_medium=article",
+        "source": "AI前线",
+        "published": "2025-07-25T15:00:00",
+        "topic": "国内资讯"
+      },
+      {
+        "title": "金山办公 AI 产品总监徐奕成确认出席 AICon 深圳，分享协同智能，多 Agent 驱动的内容创作新范式",
+        "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/iKOyqptwt1vOPv9h4UEM?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>",
+        "link": "https://www.infoq.cn/article/iKOyqptwt1vOPv9h4UEM?utm_source=rss&utm_medium=article",
+        "source": "AI前线",
+        "published": "2025-07-25T14:42:02",
+        "topic": "国内资讯"
+      },
+      {
+        "title": "状态空间模型可以在低功耗边缘计算中实现AI",
+        "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/yaaUGlucEbuL7xmBLREy?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>",
+        "link": "https://www.infoq.cn/article/yaaUGlucEbuL7xmBLREy?utm_source=rss&utm_medium=article",
+        "source": "AI前线",
+        "published": "2025-07-25T14:00:00",
+        "topic": "国内资讯"
+      },
+      {
+        "title": "Azure Event Hubs地理复制功能达到正式可用状态",
+        "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/uPPt2xFdppmHuhchqfRU?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>",
+        "link": "https://www.infoq.cn/article/uPPt2xFdppmHuhchqfRU?utm_source=rss&utm_medium=article",
+        "source": "AI前线",
+        "published": "2025-07-25T12:00:00",
+        "topic": "国内资讯"
+      },
+      {
+        "title": "文件被 Gemini 当场“格式化”，全没了！网友控诉：Claude、Copilot 也爱删库，一个都跑不了",
+        "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/j0pUYVuDQ03ZwhTsu8et?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>",
+        "link": "https://www.infoq.cn/article/j0pUYVuDQ03ZwhTsu8et?utm_source=rss&utm_medium=article",
+        "source": "AI前线",
+        "published": "2025-07-25T12:00:00",
+        "topic": "国内资讯"
+      },
+      {
+        "title": "AI 重构 UGC 游戏创作链：玩法、内容与商业价值新范式｜AICon深圳",
+        "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/UPhzggkmQgv5hbPoq8Wb?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>",
+        "link": "https://www.infoq.cn/article/UPhzggkmQgv5hbPoq8Wb?utm_source=rss&utm_medium=article",
+        "source": "AI前线",
+        "published": "2025-07-25T11:21:18",
+        "topic": "国内资讯"
+      },
+      {
+        "title": "2025世界人工智能大会欢迎参与，7月26-7月28日",
+        "summary": "",
+        "link": "https://www.worldaic.com.cn/",
+        "source": "量子位",
+        "published": "2025-07-25T11:17:28",
+        "topic": "国内资讯"
+      },
+      {
+        "title": "大型商业银行研发工程智能化探索",
+        "summary": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/hGsuX55aqkHiiOzNTJPp?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>",
+        "link": "https://www.infoq.cn/article/hGsuX55aqkHiiOzNTJPp?utm_source=rss&utm_medium=article",
+        "source": "AI前线",
+        "published": "2025-07-25T10:55:05",
+        "topic": "国内资讯"
+      }
+    ],
+    "学术研究": [
+      {
+        "title": "ASP-Assisted Symbolic Regression: Uncovering Hidden Physics in Fluid Mechanics",
+        "summary": "arXiv:2507.17777v1 Announce Type: new \nAbstract: Unlike conventional Machine-Learning (ML) approaches, often criticized as \"black boxes\", Symbolic Regression (SR) stands out as a powerful tool for revealing interpretable mathematical relationships in complex physical systems, requiring no a priori a...",
+        "link": "https://arxiv.org/abs/2507.17777",
+        "source": "arXiv:cs.AI",
+        "published": "2025-07-25T04:00:00",
+        "topic": "学术研究"
+      },
+      {
+        "title": "I2I-STRADA -- Information to Insights via Structured Reasoning Agent for Data Analysis",
+        "summary": "arXiv:2507.17874v1 Announce Type: new \nAbstract: Recent advances in agentic systems for data analysis have emphasized automation of insight generation through multi-agent frameworks, and orchestration layers. While these systems effectively manage tasks like query translation, data transformation, a...",
+        "link": "https://arxiv.org/abs/2507.17874",
+        "source": "arXiv:cs.AI",
+        "published": "2025-07-25T04:00:00",
+        "topic": "学术研究"
+      },
+      {
+        "title": "SMARTAPS: Tool-augmented LLMs for Operations Management",
+        "summary": "arXiv:2507.17927v1 Announce Type: new \nAbstract: Large language models (LLMs) present intriguing opportunities to enhance user interaction with traditional algorithms and tools in real-world applications. An advanced planning system (APS) is a sophisticated software that leverages optimization to he...",
+        "link": "https://arxiv.org/abs/2507.17927",
+        "source": "arXiv:cs.AI",
+        "published": "2025-07-25T04:00:00",
+        "topic": "学术研究"
+      },
+      {
+        "title": "Synthesis of timeline-based planning strategies avoiding determinization",
+        "summary": "arXiv:2507.17988v1 Announce Type: new \nAbstract: Qualitative timeline-based planning models domains as sets of independent, but\n  interacting, components whose behaviors over time, the timelines, are governed\n  by sets of qualitative temporal constraints (ordering relations), called\n  synchronizatio...",
+        "link": "https://arxiv.org/abs/2507.17988",
+        "source": "arXiv:cs.AI",
+        "published": "2025-07-25T04:00:00",
+        "topic": "学术研究"
+      },
+      {
+        "title": "E.A.R.T.H.: Structuring Creative Evolution through Model Error in Generative AI",
+        "summary": "arXiv:2507.18004v1 Announce Type: new \nAbstract: How can AI move beyond imitation toward genuine creativity? This paper proposes the E.A.R.T.H. framework, a five-stage generative pipeline that transforms model-generated errors into creative assets through Error generation, Amplification, Refine sele...",
+        "link": "https://arxiv.org/abs/2507.18004",
+        "source": "arXiv:cs.AI",
+        "published": "2025-07-25T04:00:00",
+        "topic": "学术研究"
+      },
+      {
+        "title": "Does visualization help AI understand data?",
+        "summary": "arXiv:2507.18022v1 Announce Type: new \nAbstract: Charts and graphs help people analyze data, but can they also be useful to AI systems? To investigate this question, we perform a series of experiments with two commercial vision-language models: GPT 4.1 and Claude 3.5. Across three representative ana...",
+        "link": "https://arxiv.org/abs/2507.18022",
+        "source": "arXiv:cs.AI",
+        "published": "2025-07-25T04:00:00",
+        "topic": "学术研究"
+      },
+      {
+        "title": "Multi-Agent Guided Policy Optimization",
+        "summary": "arXiv:2507.18059v1 Announce Type: new \nAbstract: Due to practical constraints such as partial observability and limited communication, Centralized Training with Decentralized Execution (CTDE) has become the dominant paradigm in cooperative Multi-Agent Reinforcement Learning (MARL). However, existing...",
+        "link": "https://arxiv.org/abs/2507.18059",
+        "source": "arXiv:cs.AI",
+        "published": "2025-07-25T04:00:00",
+        "topic": "学术研究"
+      },
+      {
+        "title": "AlphaGo Moment for Model Architecture Discovery",
+        "summary": "arXiv:2507.18074v1 Announce Type: new \nAbstract: While AI systems demonstrate exponentially improving capabilities, the pace of AI research itself remains linearly bounded by human cognitive capacity, creating an increasingly severe development bottleneck. We present ASI-Arch, the first demonstratio...",
+        "link": "https://arxiv.org/abs/2507.18074",
+        "source": "arXiv:cs.AI",
+        "published": "2025-07-25T04:00:00",
+        "topic": "学术研究"
+      },
+      {
+        "title": "Agentic AI framework for End-to-End Medical Data Inference",
+        "summary": "arXiv:2507.18115v1 Announce Type: new \nAbstract: Building and deploying machine learning solutions in healthcare remains expensive and labor-intensive due to fragmented preprocessing workflows, model compatibility issues, and stringent data privacy constraints. In this work, we introduce an Agentic ...",
+        "link": "https://arxiv.org/abs/2507.18115",
+        "source": "arXiv:cs.AI",
+        "published": "2025-07-25T04:00:00",
+        "topic": "学术研究"
+      },
+      {
+        "title": "Actively evaluating and learning the distinctions that matter: Vaccine safety signal detection from emergency triage notes",
+        "summary": "arXiv:2507.18123v1 Announce Type: new \nAbstract: The rapid development of COVID-19 vaccines has showcased the global communitys ability to combat infectious diseases. However, the need for post-licensure surveillance systems has grown due to the limited window for safety data collection in clinical ...",
+        "link": "https://arxiv.org/abs/2507.18123",
+        "source": "arXiv:cs.AI",
+        "published": "2025-07-25T04:00:00",
+        "topic": "学术研究"
+      }
+    ],
+    "海外与企业博客": [
+      {
+        "title": "Parquet Content-Defined Chunking",
+        "summary": "",
+        "link": "https://huggingface.co/blog/parquet-cdc",
+        "source": "Hugging Face Blog",
+        "published": "2025-07-25T00:00:00",
+        "topic": "海外与企业博客"
+      },
+      {
+        "title": "Trump’s AI Action Plan is a distraction",
+        "summary": "On Wednesday, President Trump issued three executive orders, delivered a speech, and released an action plan, all on the topic of continuing American leadership in AI.  The plan contains dozens of proposed actions, grouped into three “pillars”: accelerating innovation, building infrastructure, and l...",
+        "link": "https://www.technologyreview.com/2025/07/24/1120639/trumps-ai-action-plan-is-a-distraction/",
+        "source": "MIT Tech Review - AI",
+        "published": "2025-07-24T20:15:00",
+        "topic": "海外与企业博客"
+      },
+      {
+        "title": "America’s AI watchdog is losing its bite",
+        "summary": "Most Americans encounter the Federal Trade Commission only if they’ve been scammed: It handles identity theft, fraud, and stolen data. During the Biden administration, the agency went after AI companies for scamming customers with deceptive advertising or harming people by selling irresponsible tech...",
+        "link": "https://www.technologyreview.com/2025/07/24/1120645/americas-ai-watchdog-is-losing-its-bite/",
+        "source": "MIT Tech Review - AI",
+        "published": "2025-07-24T18:59:09",
+        "topic": "海外与企业博客"
+      }
+    ],
+    "行业观察与播客": [
+      {
+        "title": "ServiceNow eyes $100M in AI-powered headcount savings",
+        "summary": "<p>Article URL: <a href=\"https://www.theregister.com/2025/07/25/servicenow_100m_ai_savings/\">https://www.theregister.com/2025/07/25/servicenow_100m_ai_savings/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=44682644\">https://news.ycombinator.com/item?id=44682644</a></p>\n<p>Po...",
+        "link": "https://www.theregister.com/2025/07/25/servicenow_100m_ai_savings/",
+        "source": "Hacker News (AI)",
+        "published": "2025-07-25T12:59:58",
+        "topic": "行业观察与播客"
+      },
+      {
+        "title": "Alice smart desktop AI assistant",
+        "summary": "<p>Article URL: <a href=\"https://github.com/pmbstyle/Alice\">https://github.com/pmbstyle/Alice</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=44682634\">https://news.ycombinator.com/item?id=44682634</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+        "link": "https://github.com/pmbstyle/Alice",
+        "source": "Hacker News (AI)",
+        "published": "2025-07-25T12:58:56",
+        "topic": "行业观察与播客"
+      },
+      {
+        "title": "Ask HN: With AI bubble burst imminent, where do you put your money?",
+        "summary": "<p>Many people on HN seem quite skeptical of the current AI hype—some even believe the bubble could burst soon. For example, a disappointing GPT-5 release in August might already trigger such a shift. If that happens, it could also impact the stock prices of major tech companies heavily invested in ...",
+        "link": "https://news.ycombinator.com/item?id=44682545",
+        "source": "Hacker News (AI)",
+        "published": "2025-07-25T12:49:22",
+        "topic": "行业观察与播客"
+      },
+      {
+        "title": "The Slippery Slope of AI in Games – Semi-Ramblomatic [video]",
+        "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=xfGfxHEUB1Q\">https://www.youtube.com/watch?v=xfGfxHEUB1Q</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=44682541\">https://news.ycombinator.com/item?id=44682541</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+        "link": "https://www.youtube.com/watch?v=xfGfxHEUB1Q",
+        "source": "Hacker News (AI)",
+        "published": "2025-07-25T12:49:14",
+        "topic": "行业观察与播客"
+      },
+      {
+        "title": "Am creat un AI care Răspunde automat la telefon cu agenti vocali specializațI",
+        "summary": "<p>Article URL: <a href=\"https://www.neurocall.ro\">https://www.neurocall.ro</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=44682143\">https://news.ycombinator.com/item?id=44682143</a></p>\n<p>Points: 1</p>\n<p># Comments: 3</p>",
+        "link": "https://www.neurocall.ro",
+        "source": "Hacker News (AI)",
+        "published": "2025-07-25T11:55:35",
+        "topic": "行业观察与播客"
+      },
+      {
+        "title": "Show HN: Sharebuttons.ai – generate AI share buttons for ChatGPT, Claude etc.",
+        "summary": "<p>Hi HN,<p>I built <a href=\"https://sharebuttons.ai\" rel=\"nofollow\">https://sharebuttons.ai</a>, a free tool that generates sharable links and embeddable buttons to help your content get cited in AI platforms like ChatGPT, Claude, Perplexity, and Grok.<p>The idea is simple:\nInstead of traditional s...",
+        "link": "https://sharebuttons.ai/",
+        "source": "Hacker News (AI)",
+        "published": "2025-07-25T11:54:39",
+        "topic": "行业观察与播客"
+      },
+      {
+        "title": "[D] Glimpse of my journey of switching into AI/ML",
+        "summary": "<!-- SC_OFF --><div class=\"md\"><p>When i started out in ai/ml, i was overwhelmed with all the tools, buzzwords, and expectations. honestly, what helped me most was sticking to one structured path. i was doing an online course through platforms like intellipaat since they provide free courses and the...",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1m8wt33/d_glimpse_of_my_journey_of_switching_into_aiml/",
+        "source": "Reddit r/MachineLearning",
+        "published": "2025-07-25T11:37:34",
+        "topic": "行业观察与播客"
+      },
+      {
+        "title": "AI search data on 50k brands",
+        "summary": "<p>Article URL: <a href=\"https://trakkr.ai/ai-visibility-trackers\">https://trakkr.ai/ai-visibility-trackers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=44682023\">https://news.ycombinator.com/item?id=44682023</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+        "link": "https://trakkr.ai/ai-visibility-trackers",
+        "source": "Hacker News (AI)",
+        "published": "2025-07-25T11:36:15",
+        "topic": "行业观察与播客"
+      },
+      {
+        "title": "[P] 🚀Built another 124m parameters transformer based model from scratch.This time with multi GPU training with DDP. Inspired from nanoGPT but redesigned to suit my own training pipeline.Model and training code is here",
+        "summary": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://huggingface.co/abhinavv3/MEMGPT\">https://huggingface.co/abhinavv3/MEMGPT</a></p> <p>Before training the current code Im planning to experiment by replacing the existing attention layer with GQA and the positional encoding with RoPE. Also tryingg to ...",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1m8wmos/p_built_another_124m_parameters_transformer_based/",
+        "source": "Reddit r/MachineLearning",
+        "published": "2025-07-25T11:27:50",
+        "topic": "行业观察与播客"
+      },
+      {
+        "title": "AI and I are the Baseline Code",
+        "summary": "<p>Article URL: <a href=\"https://www.intelligent-people.org/\">https://www.intelligent-people.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=44681969\">https://news.ycombinator.com/item?id=44681969</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+        "link": "https://www.intelligent-people.org/",
+        "source": "Hacker News (AI)",
+        "published": "2025-07-25T11:27:45",
+        "topic": "行业观察与播客"
+      }
+    ]
+  }
+}
