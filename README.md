@@ -13,6 +13,13 @@
 - 提供调度程序以自动运行该过程。
 - 包括一个简单的Web查看器以浏览摘要。
 
+## 应用预览如下：
+
+<div align="center">
+  <img src="./assets/figure1.png" width="600"/>
+  <h3 align="center">Ancient_Books - 古籍解读大模型</h3>
+</div>
+
 ## 项目结构
 
 ```
